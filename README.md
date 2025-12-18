@@ -4,7 +4,7 @@ A responsive business dashboard built with React, focused on clean architecture,
 
 ## 🚀 Live Demo
 
-🔗 https://TU-LINK-DEPLOY.vercel.app
+🔗 [https://business-dashboard-phi-ten.vercel.app/)]
 
 ## 📌 Features
 
