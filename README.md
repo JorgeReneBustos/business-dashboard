@@ -1,40 +1,21 @@
-# Business Dashboard – React
+# Business Dashboard 📊
 
-A responsive business dashboard built with React, focused on clean architecture, API integration, and user experience.
+Dashboard frontend desarrollado con React para visualizar información de negocio, aplicando componentes reutilizables y estructura modular.
 
-## 🚀 Live Demo
-
-🔗 [https://business-dashboard-phi-ten.vercel.app/)]
-
-## 📌 Features
-
-- Product listing from external API
-- Dynamic product detail pages
-- Client-side routing with React Router
-- Loading and error handling
-- Responsive layout using CSS Grid
-- Reusable component-based architecture
-
-## 🛠 Tech Stack
-
+## 🚀 Tecnologías
 - React
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
 - CSS3
-- REST API
-- React Router
 
-## 🧠 What I focused on
+## 📌 Características
+- Componentes reutilizables
+- Estructura clara
+- UI orientada a datos
+- Buenas prácticas de frontend
 
-- Clean and reusable components
-- Proper state management with hooks
-- User-friendly loading states
-- Scalable project structure
-- Responsive design for desktop and mobile
+## 🎯 Objetivo
+Practicar desarrollo frontend creando una interfaz tipo dashboard con React.
 
-## ▶️ Run locally
-
-```bash
-npm install
-npm run dev
-```
+## 🔗 Demo
+https://business-dashboard-phi-ten.vercel.app/
