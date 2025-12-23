@@ -5,7 +5,10 @@
 
 function Header({ title }) {
   return (
-    <header style={{ padding: "20px 40px" }}>
+    <header style={{ 
+      padding: "clamp(12px, 3vw, 20px) clamp(16px, 4vw, 40px)",
+      textAlign: "center"
+    }}>
       <h1>{title}</h1>
     </header>
   );
